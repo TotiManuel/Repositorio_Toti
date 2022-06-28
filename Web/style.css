@@ -1,0 +1,77 @@
+*{
+	font-Family:"Brush Script MT",cursive;
+	}
+
+body{
+	background-image:url("images/IMG-20221115-WA0011.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+	}
+
+h1	{
+	background-color:white
+	}
+/* Efecto al pasar el raton por los items del menu */
+#menu ul{
+		list-sytle:none;
+		margin:0;
+		padding:0;
+		}
+/* Efecto al pasar el raton por los items del menu */
+#menu ul li{
+			background-color:#2e518b;
+			}
+/* Efecto al pasar el raton por los items del menu */
+#menu ul a {
+			display:block;
+			color:#fff;
+			text-decoration:none;
+			font-weight:400;
+			font-size:15px;
+			padding:10px;
+			font-Family:"HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+			text-transform:uppercase;
+			letter-spacing:7px;
+			}
+/* Efecto al pasar el raton por los items del menu */
+#menu ul li{
+	position:relative;
+	float:left;
+	margin:0;
+	padding:0;
+}
+
+/* Efecto al pasar el raton por los items del menu */
+#menu ul li:hover{
+background:#5b78a7;
+}
+/* Efecto al pasar el raton por los items del menu */
+#menu ul ul{
+display:none;
+position:absolute;
+top:100%;
+left:0;
+background:#eee;
+padding:0;
+}
+/* Efecto al pasar el raton por los items del menu */
+#menu ul ul li{
+float:none;
+width:150px;
+}
+/* Efecto al pasar el raton por los items del menu */
+#menu ul ul a{
+line-height:120%;
+padding:10px 15px;
+}
+/* Efecto al pasar el raton por los items del menu */
+
+#menu ul li:hover>ul{
+display:block;
+}
+
+/* Efecto al pasar el raton por los items del menu */
+
+
+
