@@ -1,0 +1,185 @@
+.
+├── Datos
+├── Subir.sh
+├── Tutorial
+│   ├── InstalarProgramas
+│   ├── ScriptIniciar
+│   └── cambiarBanner
+├── comandosGit
+├── programas
+├── script
+│   └── verIP
+│       ├── IP.txt
+│       └── verIP.sh
+├── tree.txt
+├── uso
+├── wiki-termux
+│   ├── README.md
+│   ├── int
+│   ├── source
+│   │   ├── art
+│   │   │   ├── b1
+│   │   │   ├── b10
+│   │   │   ├── b11
+│   │   │   ├── b12
+│   │   │   ├── b13
+│   │   │   ├── b2
+│   │   │   ├── b3
+│   │   │   ├── b4
+│   │   │   ├── b5
+│   │   │   ├── b6
+│   │   │   ├── b7
+│   │   │   ├── b8
+│   │   │   ├── b9
+│   │   │   ├── banner0
+│   │   │   ├── banner09
+│   │   │   ├── banner1
+│   │   │   ├── banner10
+│   │   │   ├── banner11
+│   │   │   ├── banner12
+│   │   │   ├── banner13
+│   │   │   ├── banner2
+│   │   │   ├── banner3
+│   │   │   ├── banner4
+│   │   │   ├── banner5
+│   │   │   ├── banner6
+│   │   │   ├── banner7
+│   │   │   ├── banner8
+│   │   │   ├── banner9
+│   │   │   ├── debian
+│   │   │   ├── linux
+│   │   │   └── ubuntu
+│   │   ├── best-package
+│   │   ├── best-tool
+│   │   ├── comandos
+│   │   ├── cursos
+│   │   ├── externos
+│   │   ├── herramientas
+│   │   ├── info
+│   │   ├── ing
+│   │   ├── lib
+│   │   ├── librerias
+│   │   ├── menu
+│   │   │   ├── menu_1
+│   │   │   │   ├── menu_ali_fic
+│   │   │   │   ├── menu_apt
+│   │   │   │   ├── menu_ar_cr
+│   │   │   │   ├── menu_arc_com
+│   │   │   │   ├── menu_attr
+│   │   │   │   ├── menu_backup
+│   │   │   │   ├── menu_basic
+│   │   │   │   ├── menu_chm
+│   │   │   │   ├── menu_deb
+│   │   │   │   ├── menu_dep
+│   │   │   │   ├── menu_edit
+│   │   │   │   ├── menu_fnd
+│   │   │   │   ├── menu_format
+│   │   │   │   ├── menu_grps
+│   │   │   │   ├── menu_lan
+│   │   │   │   ├── menu_other
+│   │   │   │   ├── menu_space
+│   │   │   │   ├── menu_sys
+│   │   │   │   └── menu_ver
+│   │   │   ├── menu_10
+│   │   │   ├── menu_11
+│   │   │   │   ├── calcase
+│   │   │   │   ├── colores
+│   │   │   │   ├── contarlineas
+│   │   │   │   ├── copiarcontenido
+│   │   │   │   ├── ctrpress
+│   │   │   │   ├── dire
+│   │   │   │   ├── division
+│   │   │   │   ├── filee
+│   │   │   │   ├── hellwo
+│   │   │   │   ├── interactiv
+│   │   │   │   ├── menu
+│   │   │   │   ├── menuca
+│   │   │   │   ├── menufu
+│   │   │   │   ├── multi
+│   │   │   │   ├── obtemperatura
+│   │   │   │   ├── parinpar
+│   │   │   │   ├── pesodirectorio
+│   │   │   │   ├── resta
+│   │   │   │   ├── rndemoji
+│   │   │   │   ├── spinner
+│   │   │   │   ├── suma
+│   │   │   │   ├── tabla
+│   │   │   │   ├── textolowercase
+│   │   │   │   ├── whilemenu
+│   │   │   │   └── whileopp
+│   │   │   ├── menu_12
+│   │   │   │   ├── andrax
+│   │   │   │   ├── debian
+│   │   │   │   ├── kali
+│   │   │   │   ├── linux
+│   │   │   │   ├── net
+│   │   │   │   ├── solaris
+│   │   │   │   ├── touch
+│   │   │   │   ├── ubuntu
+│   │   │   │   ├── ui
+│   │   │   │   └── unix
+│   │   │   ├── menu_13
+│   │   │   ├── menu_2
+│   │   │   ├── menu_3
+│   │   │   │   ├── dates
+│   │   │   │   │   ├── cat.json
+│   │   │   │   │   └── data.json
+│   │   │   │   ├── exa
+│   │   │   │   └── modules
+│   │   │   │       ├── __pycache__
+│   │   │   │       │   ├── ban.cpython-38.pyc
+│   │   │   │       │   ├── menu.cpython-38.pyc
+│   │   │   │       │   └── sys.cpython-38.pyc
+│   │   │   │       ├── ban.py
+│   │   │   │       ├── menu.py
+│   │   │   │       └── sys.py
+│   │   │   ├── menu_4
+│   │   │   │   ├── brute
+│   │   │   │   ├── metas
+│   │   │   │   ├── ngrok
+│   │   │   │   ├── phishing
+│   │   │   │   ├── router
+│   │   │   │   ├── spam
+│   │   │   │   └── termux
+│   │   │   ├── menu_5
+│   │   │   │   ├── bash.1
+│   │   │   │   ├── bash.2
+│   │   │   │   ├── bash.3
+│   │   │   │   ├── c++.basic
+│   │   │   │   ├── c++.basic1
+│   │   │   │   ├── c++.dev
+│   │   │   │   ├── c.basic.1
+│   │   │   │   ├── c.basic.2
+│   │   │   │   ├── c.dev
+│   │   │   │   ├── css.basic
+│   │   │   │   ├── css.dev
+│   │   │   │   ├── hacking
+│   │   │   │   ├── ht.cs.js
+│   │   │   │   ├── html.dev
+│   │   │   │   ├── java.basic
+│   │   │   │   ├── java.dev
+│   │   │   │   ├── js.basic
+│   │   │   │   ├── js.dev
+│   │   │   │   ├── php.basic
+│   │   │   │   ├── php.dev
+│   │   │   │   ├── python.basic
+│   │   │   │   ├── python.dev
+│   │   │   │   ├── sql.basic
+│   │   │   │   └── sql.dev
+│   │   │   ├── menu_6
+│   │   │   ├── menu_7
+│   │   │   ├── menu_8
+│   │   │   └── menu_9
+│   │   ├── ptmux
+│   │   ├── scripts
+│   │   ├── solucion
+│   │   └── tutoriales
+│   └── wiki
+└── zphisher
+    ├── Dockerfile
+    ├── LICENSE
+    ├── README.md
+    ├── make-deb.sh
+    └── zphisher.sh
+
+33 directories, 149 files

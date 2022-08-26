@@ -1,0 +1,15 @@
+tmux{
+tmux: inicia tmux
+CTRL+b+%: abre nueva terminal
+exit: cierra una terminal
+}
+tree{
+tree: muestra carpetas y archivos
+}
+zphisher{
+cd zphisher
+./zphisher.sh abre app en la carpeta clonada
+}
+ipgeolocation{
+python ipgeolocation.py -h
+}
