@@ -1,0 +1,15 @@
+whatweb -grep fusavim http://totimanuel.com.ar/  
+
+[1m[34mhttp://totimanuel.com.ar/
+[0m [200 OK] [1mApache[0m, [
+1mCountry[0m[[0m[22mARGENTINA
+[0m][[1m[31mAR[0m], [1mEmail
+[0m[[0m[22mSecretarias.fusavim@gmail.com[0m],
+ [1mFrame[0m, [1mGrep[0m, [1mHTTPServer
+[0m[[1m[36mApache[0m], [1mIP[0m[[0m[2
+2m200.58.112.71[0m], [1mPHP[0m[[1m[32m7.4
+.25[0m], [1mTitle[0m[[1m[33mClinica Fusav
+im Privada S.R.L.[0m][[1m[31mTitle element co
+ntains newline(s)![0m], [1mUncommonHeaders[0m
+[[0m[22mupgrade[0m], [1mX-Powered-By[0m[
+[0m[22mPHP/7.4.25[0m]
