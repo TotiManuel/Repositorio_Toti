@@ -1,12 +1,16 @@
 1. Crea tu CV con HTML y CSS
 
-Uno de los proyectos para aprender a programar más elementales del desarrollo web es la creación de una página web con HTML y CSS. Y, por ello, en este caso, te proponemos que desarrolles no cualquier web, sino tu propio curriculum.
-
-De esta manera, podrás practicar los fundamentos del lenguaje de marcado con el que se han asentado las bases del World Wide Web. Para ello, solo necesitas un editor de texto para crear el documento HTML, en el que tendrás que definir los elementos básicos de tu página web (texto, imágenes, vídeo…) y su estructura.
-
-En este caso, el esqueleto de tu trabajo serán las partes que componen un CV: perfil, experiencia laboral, formación, datos de contacto… Junto a la parte HTML, CSS será el encargado de darle forma. Este lenguaje de hojas de estilo te permitirá ejercitar tus habilidades de diseño, esto es, el punto de vista estético de un proyecto.
-
-Además de poner en práctica los conceptos básicos del desarrollo web, la realización de esta página web te permitirá demostrar que los tienes a la vez que presentas tu currículum de manera creativa. Y si quieres ir un paso más allá, también puedes seguir nuestro sencillo tutorial de cómo crear tu currículum en GitHub.
+Uno de los proyectos para aprender a programar más elementales del desarrollo web es la creación de una página web con HTML y CSS. Y, por ello, 
+en este caso, te proponemos que desarrolles no cualquier web, sino tu propio curriculum.
+De esta manera, podrás practicar los fundamentos del lenguaje de marcado con el que se han asentado las bases del World Wide Web. Para ello, solo 
+necesitas un editor de texto para crear el documento HTML, en el que tendrás que definir los elementos básicos de tu página web 
+(texto, imágenes, vídeo…) y su estructura.
+En este caso, el esqueleto de tu trabajo serán las partes que componen un CV: perfil, experiencia laboral, formación, datos de contacto… Junto a la 
+parte HTML, CSS será el encargado de darle forma. Este lenguaje de hojas de estilo te permitirá ejercitar tus habilidades de diseño, esto es, el punto 
+de vista estético de un proyecto.
+Además de poner en práctica los conceptos básicos del desarrollo web, la realización de esta página web te permitirá demostrar que los tienes a la vez 
+que presentas tu currículum de manera creativa. Y si quieres ir un paso más allá, también puedes seguir nuestro sencillo tutorial de cómo crear tu 
+currículum en GitHub.
 
 2. Elabora una presentación con JavaScript
 
@@ -37,3 +41,6 @@ En cuanto a los lenguajes de programación, se pueden usar Java o Python, entre 
 Este es uno de los proyectos para aprender a programar más útiles, ya que puedes utilizarlo realmente en tu día a día para apuntar tus tareas pendientes y tacharlas a medida que las vas realizando.
 
 En esta ocasión, se trata de desarrollar una interfaz de usuario sencilla con HTML, CSS y JavaScript en la que el usuario pueda añadir elementos, interactuar con ellos mediante botones y eliminarlos cuando ya no los necesite. Además de poder sacarle provecho y practicar las bases del desarrollo web, es un trabajo interesante para incluir en tu portfolio.
+
+6. Hacer mi propia Calculadora
+
