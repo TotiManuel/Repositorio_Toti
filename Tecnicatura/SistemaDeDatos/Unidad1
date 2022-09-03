@@ -1,0 +1,24 @@
+
+  ORGANIZACION Y ARQUITECTURA DE UNA COMPUTADORA
+  
+Computadora: Se diseño para ingresar datos de entrada y realizar operaciones sobre ellos(Organizadas en una secuencia logica y predeterminada por un algoritmo) para elaborar resultados que se obtengan como salidas. Las computadoras solo comprenden los Nº(0 y 1).
+Algoritmo: No solo sirve para resolver problemas de una computadora, sino que tambien lo vemos en la vida cotidiana. EJ:(Organizar un asado). Un algoritmo se lo denomina programa.
+Analogico: Tengo que recorrer el camino para ir del 0 al 1.
+Digital: Podes ser un 0 o un 1.
+Componentes de una computadora: La relacion entre los distintos componentes y su diseño y tecnologia se define como organizacion de una computadora.
+
+  ESTRATIFICACION DEL SOFTWARE
+  
+Aplicaciones___________________________________________________________Reproductor de video, Navegador, Editor de texto.
+Software para producir aplicaciones____________________________________Editores, Compiladores.
+Software de gestion de recursos________________________________________Sistema operativo.
+Lenguaje de señales que permiten la ejecucion de las instrucciones
+Hardware
+
+  POLINOMIO DE TRANSFORMACION
+  
+(0 1 1 1)2-->Binario
+ | | | L 1x2º = 1
+ | | |__ 1x2º1= 2
+ | |____ 1x2º2= 4
+ |______ 0x2º3= 0   1+2+4+0=(7)10-->Decimal
