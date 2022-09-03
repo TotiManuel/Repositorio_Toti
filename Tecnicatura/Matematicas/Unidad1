@@ -1,0 +1,24 @@
+
+	MATEMATICAS
+
+ Conjunto: Es un grupo de elementos.
+ 
+ Los conjuntos se muestran con letras mayusculas.
+ Los elementos se muestran con letras minusculas.
+
+ ∈: Pertenece a
+ ∈/: No pertenece a
+
+ A={x/x sea una vocal} == A={a, e, i, o, u}
+
+	FORMAS DE DEFINIR UN CONJUNTO
+
+ Extencion o Enumeracion: Es un conjunto finito y enumerado.
+ Comprension: Todos los elementos que cumplan con algunas reglas.
+	      (EJ: ser par).
+
+	CONJUNTOS NUMERICOS
+
+ N: numeros naturales(del 1 al ∞).
+ N0: numeros naturales con el 0 incluido(del 0 al ∞).
+ Z: Numeros enteros(Numeros negativos y positivos incluido el 0).
