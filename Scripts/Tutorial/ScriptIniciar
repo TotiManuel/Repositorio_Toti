@@ -1,7 +1,0 @@
-iniciar script al encender{
-descargar:termuxboot
-hacer script con terminacion sh
-dar permisos al script con: chmod +x script.sh
-copiar script en ~/.termux/boot/script.sh
-para editar ir a: ~/.termux/boot/
-}

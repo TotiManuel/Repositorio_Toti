@@ -1,1 +1,0 @@
-ifconfig >> IP.txt
