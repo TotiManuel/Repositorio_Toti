@@ -6,3 +6,6 @@ nmap -Pn *ip*___________Hace un mapeo de la ip
 whatweb *URL*___________Busca Datos de la URL
 gh______________________Ayuda con los procesos de git y github
 htop____________________Ver Lista de Actividades
+hardinfo________________Muestra el estado del hardware del PC
+lscpu___________________Muestra Informacion sobre el Procesador Central del CPU
+lshw -short_____________Muestra todo el Hardware instalado en el equipo
