@@ -1,0 +1,8 @@
+Nombre			Funcion
+vim_____________________Editor de Texto
+neofetch________________Muestra los Datos de la pc
+nikto -host *Web*_______Muestra los datos de la web dada
+nmap -Pn *ip*___________Hace un mapeo de la ip
+whatweb *URL*___________Busca Datos de la URL
+gh______________________Ayuda con los procesos de git y github
+htop____________________Ver Lista de Actividades
