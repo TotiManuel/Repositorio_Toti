@@ -1,0 +1,103 @@
+rem COMANDOS
+
+rem Saber nombre de usuario
+whoami
+
+rem descripcion de otro comando
+whatis
+
+rem Revisar ultimos comandos usados
+history
+
+rem crear un archivo vacio
+touch NOMBRE
+rem Cambiar contraseña del terminal
+passwd
+
+rem Mostrar mensaje en consola
+echo MENSAJE 
+
+rem copiar y pegar archivos
+cp archivoacopiar.txt nuevoarchivo.txt
+
+rem copiar directorios enteros
+cp -r directorioacopiar/ nuevodirectorio/
+
+rem Copiar todos los archivos
+rsync -av 
+rem Previsualizar archivo sin abrirlo
+
+rem ver cuanto pesa un directorio
+du -sh DIRECTORIO
+
+rem comprimir y descomprimir archivo
+zin COMPRIMIR
+unzip DESCOMPRIMIR
+
+rem ver contenido de un zip sin descomprimir
+zipinfo ZIP
+
+rem todos los procesos que estan corriendo
+ps fax 
+
+rem Conseguir y guardar IP
+ifconfig >> IP.txt
+curl ifconfig.me
+
+rem Saber y guardar parte del IP
+ifconfig | grep "255" >> ARCHIVO
+
+rem mostrar mensaje de a que hora abrimos 
+echo "Abriste a las:  $(date)" >> registros.txt
+
+rem Guardar los puertos en ese momento
+netstat >> registros.txt
+
+rem cerrar proceso que no finaliza
+kill nombre del proceso
+
+rem ver en que directorio estoy
+pwd
+
+rem comprobar la red
+ping url IPOpcional
+
+rem apagar sistema de forma segura
+shutdown opcion tiempo mensaje
+
+rem Mostrar contenido del archivo
+cat IP.txt
+
+rem buscar datos de algun comando
+man COMANDO
+
+rem buscar datos especificos de un archivo
+NOMBREARCHIVO O COMANDO | grep DATO A BUSCAR
+
+rem Calendario y fecha y hora exacta
+cal
+date
+cal 09 1998 
+
+rem Dar permisos
+chmod +x NOMBREARCHIVO
+
+rem mostrar las primeras lineas
+ls -l | head -1
+
+rem buscar datos por columna
+ls -l | head -1 | awk '{print $2}'
+
+rem Crear y extraer archivos de almacenamiento
+tar <<Opciones= -cf o -xf>> Nombre del archivo directorio del archivo
+
+rem Encontrar archivo
+find archivo a buscar
+
+rem Buscar diferencias entre dos archivos
+diff opcion archivo
+
+rem ver procesos en ejecucion
+top
+
+
