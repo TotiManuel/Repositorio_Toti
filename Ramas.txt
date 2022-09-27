@@ -1,0 +1,47 @@
+uso: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           [--super-prefix=<path>] [--config-env=<name>=<envvar>]
+           <command> [<args>]
+
+
+
+Estos son comandos comunes de Git usados en varias situaciones:
+
+comenzar un área de trabajo (mira también: git help tutorial)
+   clone     Clonar un repositorio dentro de un nuevo directorio
+   init      Crear un repositorio de Git vacío o reinicia el que ya existe
+
+trabajar en los cambios actuales (mira también: git help everyday)
+   add       Agregar contenido de archivos al índice
+   mv        Mover o cambiar el nombre a archivos, directorios o enlaces simbólicos
+   restore   Restaurar archivos del árbol de trabajo
+   rm        Borrar archivos del árbol de trabajo y del índice
+
+examinar el historial y el estado (mira también: git help revisions)
+   bisect    Usar la búsqueda binaria para encontrar el commit que introdujo el bug
+   diff      Mostrar los cambios entre commits, commit y árbol de trabajo, etc
+   grep      Imprimir las líneas que concuerden con el patrón
+   log       Mostrar los logs de los commits
+   show      Mostrar varios tipos de objetos
+   status    Mostrar el estado del árbol de trabajo
+
+crecer, marcar y ajustar tu historial común
+   branch    Listar, crear, o borrar ramas
+   commit    Grabar los cambios al repositorio
+   merge     Juntar dos o más historiales de desarrollo juntos
+   rebase    Volver a aplicar commits en la punta de otra rama
+   reset     Reiniciar el HEAD actual a un estado específico
+   switch    Cambiar de branch
+   tag       Crear, listar, borrar o verificar un objeto de tag firmado con GPG
+
+colaborar (mira también: git help workflows)
+   fetch     Descargar objetos y referencias de otro repositorio
+   pull      Realizar un fetch e integra con otro repositorio o rama local
+   push      Actualizar referencias remotas junto con sus objetos asociados
+
+'git help -a' y 'git help -g' listan los subcomandos disponibles y algunas
+guías de concepto. Consulta 'git help <command>' o 'git help <concepto>'
+para leer sobre un subcomando o concepto específico.
+Mira 'git help git' para una vista general del sistema.
